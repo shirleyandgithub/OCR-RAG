@@ -1,2 +1,9 @@
-# OCR-RAG
-中英文混排文档的结构化识别与翻译（OCR在RAG问答系统中的落地）
+
+
+
+<p> 该项目为OCR在RAG问答系统中的落地<br>
+整体流程：<br>
+图像输入->OCR识别（tesseract.py）->翻译生成（nllb.py）->针对结果进行RAG问答（zhipu_rag.py）
+</p><br><br>
+
+
